@@ -1,16 +1,23 @@
-### Hi there 👋
+### Olá! 👋
 
-<!--
-**Lucras22/Lucras22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Meu nome é Lucras Galindo. 
 
-Here are some ideas to get you started:
+Você pode entrar em contato comigo através do meu e-mail: pedrolukasgalindocarneiro@gmail.com.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Linguagens de Programação:
+
+- PHP
+- SQL
+- Java
+- JavaScript
+- C++
+- Python
+
+#### Experiência:
+
+- técnico em informática 
+- Desenvolvedor Web FrontEnd
+- Automação com robótica
+- Gamer 
+
+Se você deseja colaborar em projetos relacionados a essas áreas ou simplesmente quer bater um papo sobre programação, sinta-se à vontade para entrar em contato comigo. Vamos criar coisas incríveis juntos!

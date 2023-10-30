@@ -2,7 +2,7 @@
 
 💻 Meu nome é Lucras Galindo. 
 
-Você pode entrar em contato comigo através do meu e-mail: pedrolukasgalindocarneiro@gmail.com.
+Você pode entrar em contato comigo através do meu e-mail: pedro.carneir26@aluno.ce.gov.br.
 
 #### Linguagens de Programação:
 

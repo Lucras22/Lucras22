@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-💻 Meu nome é Lucras Galindo. 
+💻 Meu nome é Lucas Galindo. 
 
 Você pode entrar em contato comigo através do meu e-mail: devlucasgalindo@gmail.com .
 

@@ -16,7 +16,7 @@ Você pode entrar em contato comigo através do meu e-mail: devlucasgalindo@gmai
 #### Experiência:
 
 - técnico em informática 
-- Desenvolvedor Web FrontEnd
+- Desenvolvedor Web FullStack
 - Automação com robótica
 - Gamer 
 

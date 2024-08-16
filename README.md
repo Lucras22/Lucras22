@@ -11,9 +11,8 @@ Você pode entrar em contato comigo através do meu e-mail: devlucasgalindo@gmai
 - Java
 - JavaScript
 - HTML & CSS
-- C++
+- C++ (Robótica)
 - Python
-- SQL
 
 #### Experiência:
 

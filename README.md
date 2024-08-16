@@ -10,18 +10,20 @@ Você pode entrar em contato comigo através do meu e-mail: devlucasgalindo@gmai
 - SQL
 - Java
 - JavaScript
+- HTML & CSS
 - C++
 - Python
+- SQL
 
 #### Experiência:
 
-- técnico em informática 
-- Desenvolvedor Web FullStack
-- Automação com robótica
-- Gamer 
+- Técnico em Informática com ênfase em automação robótica, onde tenho desenvolvido projetos focados em otimizar e automatizar ações manuais.
+- Projetos em Robótica, aplicando minhas habilidades em C++ e Python para criar soluções inovadoras que podem ser vistas em meus repositórios.
+- Experiência em Marketing Digital e E-commerce, utilizando estratégias para aumentar o engajamento e as vendas online.
+- Designer Gráfico Freelancer, criando conteúdo visual impactante e adaptável a diferentes necessidades.
+- Desenvolvedor Web FullStack, criando sites dinâmicos e responsivos que oferecem uma experiência de usuário intuitiva.
 
-Se você deseja colaborar em projetos relacionados a essas áreas ou simplesmente quer bater um papo sobre programação, 
-sinta-se à vontade para entrar em contato comigo. Vamos criar coisas incríveis juntos!
+Estou constantemente trabalhando em novos projetos de robótica e desenvolvimento web, que você pode conferir nos meus repositórios aqui no GitHub. Se você está interessado em colaborar ou discutir sobre robótica e programação, não hesite em entrar em contato. Vamos criar coisas incríveis juntos!
 
 
 ![](https://imgs.search.brave.com/gJ9NBaepXMST7EMrSdUDlWZhWUgRj1d4Rlm5NBLMcos/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naXRo/dWIuY29tL3JlcHJv/Z3JhbWEvb24xOC10/ZXQtczItbG9naWNh/LUkvcmF3L21haW4v/YXNzZXRzL2phdmFz/Y3JpcHQuZ2lm.gif)

@@ -4,6 +4,11 @@
 
 Você pode entrar em contato comigo através do meu e-mail: devlucasgalindo@gmail.com .
 
+## Ponto importante sobre mim
+
+**Minha principal área de interesse é a automação e sistemas embarcados, aos quais dedico a maior parte do meu tempo. No entanto, nos meus momentos livres, gosto de explorar uma variedade de tópicos e aprender sempre algo novo.**
+
+
 #### Linguagens de Programação:
 
 - PHP
@@ -20,8 +25,8 @@ Você pode entrar em contato comigo através do meu e-mail: devlucasgalindo@gmai
 - Projetos em Robótica, aplicando minhas habilidades em C++ e Python para criar soluções inovadoras que podem ser vistas em meus repositórios.
 - Experiência em Marketing Digital e E-commerce, utilizando estratégias para aumentar o engajamento e as vendas online.
 - Designer Gráfico Freelancer, criando conteúdo visual impactante e adaptável a diferentes necessidades.
-- Desenvolvedor Web FullStack, criando sites dinâmicos e responsivos que oferecem uma experiência de usuário intuitiva.
-
+- Estudando programção WEB
+  
 Estou constantemente trabalhando em novos projetos de robótica e desenvolvimento web, que você pode conferir nos meus repositórios aqui no GitHub. Se você está interessado em colaborar ou discutir sobre robótica e programação, não hesite em entrar em contato. Vamos criar coisas incríveis juntos!
 
 

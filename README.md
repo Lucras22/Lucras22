@@ -4,10 +4,9 @@
 
 Você pode entrar em contato comigo através do meu e-mail: devlucasgalindo@gmail.com .
 
-## Ponto importante sobre mim
+## 🚀 Ponto importante sobre mim
 
-**Minha principal área de interesse é a automação e sistemas embarcados, aos quais dedico a maior parte do meu tempo. No entanto, nos meus momentos livres, gosto de explorar uma variedade de tópicos e aprender sempre algo novo.**
-
+**🔧 Minha principal área de interesse é a automação e sistemas embarcados, aos quais dedico a maior parte do meu tempo. No entanto, nos meus momentos livres, gosto de explorar uma variedade de tópicos e aprender sempre algo novo. 🌟**
 
 #### Linguagens de Programação:
 

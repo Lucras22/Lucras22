@@ -21,6 +21,8 @@ Estou constantemente trabalhando em novos projetos de robótica e desenvolviment
 
 
  ![Lucras22 GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucras22&show_icons=true&theme=merko&locale=pt-br) 
+
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=Lucras22&theme=merko&locale=pt-br)
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucras22&layout=compact&theme=merko&locale=pt-br)
 

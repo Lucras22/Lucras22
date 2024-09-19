@@ -19,12 +19,11 @@ Você pode entrar em contato comigo através do meu e-mail: devlucasgalindo@gmai
   
 Estou constantemente trabalhando em novos projetos de robótica e desenvolvimento web, que você pode conferir nos meus repositórios aqui no GitHub. Se você está interessado em colaborar ou discutir sobre sistemas embarcados (IOT) e programação, não hesite em entrar em contato. Vamos criar coisas incríveis juntos!
 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucras22&layout=compact&theme=merko&locale=pt-br)
 
  ![Lucras22 GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucras22&show_icons=true&theme=merko&locale=pt-br) 
 
  ![](https://github-readme-streak-stats.herokuapp.com/?user=Lucras22&theme=merko&locale=pt-br)
- 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucras22&layout=compact&theme=merko&locale=pt-br)
 
 
 ## Redes Sociais  

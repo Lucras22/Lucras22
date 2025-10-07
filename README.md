@@ -57,6 +57,7 @@
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows11&labelColor=0D1117)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
 ![Fritzing](https://img.shields.io/badge/-Fritzing-0D1117?style=for-the-badge&logo=fritzing&labelColor=0D1117)&nbsp;
+![Kicad](https://img.shields.io/badge/-Kicad-0D1117?style=for-the-badge&logo=kicad&labelColor=0D1117)&nbsp;
 
 ### Other Knowledge:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
@@ -64,6 +65,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![React](https://img.shields.io/badge/-Reacct-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![FastAPI](https://img.shields.io/badge/-fastapi-0D1117?style=for-the-badge&logo=fastapi&labelColor=0D1117)&nbsp;
 ![Flask](https://img.shields.io/badge/-flask-0D1117?style=for-the-badge&logo=flask&labelColor=0D1117)&nbsp;
@@ -73,7 +75,8 @@
 ### Studying in this moment:
 ![C++](https://img.shields.io/badge/-c++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Assembly](https://img.shields.io/badge/-Assembly-0D1117?style=for-the-badge&logo=assembly&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Verilog](https://img.shields.io/badge/-Verilog-0D1117?style=for-the-badge&logo=verilog&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 
 

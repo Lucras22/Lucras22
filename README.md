@@ -1,96 +1,85 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Lucas+Galindo;I'm+19+years+old;I+am+from+Boa+Viagem,+CE;I+work+with+Embedded+Systems+(IoT);Be+Welcome+to+my+profile!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Lucas+Galindo;Founder+at+Genesis+HiTech;Building+the+future+of+technology.)](https://git.io/typing-svg) 
+
+## 🧬 Founder at Genesis HiTech
+Como fundador da **Genesis HiTech**, lidero uma holding de elite focada em **inovação de fronteira**. Não apenas construímos dispositivos; somos arquitetos de ecossistemas completos. Unimos o rigor acadêmico do P&D à agilidade da engenharia moderna para materializar o "impossível" tecnológico através de hardware proprietário e software de alta complexidade.
+
+> **"Não existe problema, apenas uma tecnologia nova a ser criada."**
+
+### 🌐 Genesis HiTech | Innovation Core
+Atuamos como um centro estratégico onde a vanguarda científica se transforma em solução funcional de alto valor.
+
+* **Engineering Excellence:** Desenvolvimento do "Zero ao Hardware", com circuitos embarcados robustos e firmware de baixa latência.
+* **Full-Stack Intelligence:** Arquitetura de software (Front, Back e Cloud) integrada nativamente aos sistemas físicos.
+* **Scientific P&D:** Núcleo de pesquisa avançada dedicado a criar paradigmas tecnológicos que o mercado ainda não conhece.
+* **Strategic Holding:** Gestão e escala de tecnologias disruptivas para o ecossistema Hitech.
+
+---
+
+### 📊 Stats & Activity
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Lucras22&show_icons=true&count_private=true&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=c9d1d9&bg_color=0d1117" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucras22&layout=compact&hide_border=true&title_color=00FF00&text_color=00FF00&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.shion.dev/api?username=Lucras22&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true" /> 
+  <img width="41%" height="195px" src="https://streak-stats.demolab.com/?user=Lucras22&theme=shadow_green&hide_border=false" />
 </div>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Lucras22&bg_color=000000&color=00FF00&line=3CB371&point=006400&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Lucras22&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Lucras22&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
-<div align="center">  
-<a href="https://github.com/Lucras22" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-  
-<a href="https://instagram.com/mente_bit" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-  
-  <a href="https://instagram.com/lucras_galindo" target="_blank">
-<img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram2 style="margin-bottom: 5px;" />
-</a>  
-  
-  <a href="https://maito:devlucasgalindo@gmail.com" target="_blank">
-    <img src= https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
-  </a>
-  
-  <a href="https://t.me/Lucras13" target="_blank">
-    <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
-  </a>
+---
 
-  <a href="https://discordapp.com/users/826658098361401374" target="_blank">
-    <img src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
-  </a>
+### 🛠️ Tech Stack
 
-  <a href="https://www.linkedin.com/in/lucasgalindoiot/" target="_blank">
-    <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>
-</div> 
-
-### Main skills:
-![C++](https://img.shields.io/badge/-c++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117&textColor=0D1117)&nbsp;
+**Core & Embedded:**
+![C++](https://img.shields.io/badge/-c++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117)&nbsp;
 ![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
+![Arduino IDE](https://img.shields.io/badge/-ArduinoIDE-0D1117?style=for-the-badge&logo=arduino&labelColor=0D1117)&nbsp;
+![Raspberry Pi](https://img.shields.io/badge/-RaspBerryPI-0D1117?style=for-the-badge&logo=raspberry-pi&labelColor=0D1117)&nbsp;
+![Kicad](https://img.shields.io/badge/-Kicad-0D1117?style=for-the-badge&logo=kicad&labelColor=0D1117)
 
-### Tools:
-![Visual Studio 2022](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Arduino IDE](https://img.shields.io/badge/-ArduinoIDE-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![raspberrypi](https://img.shields.io/badge/-RaspBerryPI-0D1117?style=for-the-badge&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows11&labelColor=0D1117)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
-![Fritzing](https://img.shields.io/badge/-Fritzing-0D1117?style=for-the-badge&logo=fritzing&labelColor=0D1117)&nbsp;
-![Kicad](https://img.shields.io/badge/-Kicad-0D1117?style=for-the-badge&logo=kicad&labelColor=0D1117)&nbsp;
-
-### Other Knowledge:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React](https://img.shields.io/badge/-Reacct-0D1117?style=for-the-badge&logo=react&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+**Web & Backend:**
 ![FastAPI](https://img.shields.io/badge/-fastapi-0D1117?style=for-the-badge&logo=fastapi&labelColor=0D1117)&nbsp;
-![Flask](https://img.shields.io/badge/-flask-0D1117?style=for-the-badge&logo=flask&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)
 
-### Studying in this moment:
-![C++](https://img.shields.io/badge/-c++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117&textColor=0D1117)&nbsp;
-![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
-![Assembly](https://img.shields.io/badge/-Assembly-0D1117?style=for-the-badge&logo=assembly&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Verilog](https://img.shields.io/badge/-Verilog-0D1117?style=for-the-badge&logo=verilog&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+**Current Learning Focus:**
+![Assembly](https://img.shields.io/badge/-Assembly-0D1117?style=for-the-badge&logo=assembly&labelColor=0D1117)&nbsp;
+![Verilog](https://img.shields.io/badge/-Verilog-0D1117?style=for-the-badge&logo=verilog&labelColor=0D1117)
 
+---
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Lucras22}/count.svg" /></p> 
-<br></div>
+### 📫 Connect with me
 
-<div align="center">
-   
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/Lucras22?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=dracula) 
-
+<div align="center">  
+<a href="https://github.com/GENESIS-HITECH-GIT" target="_blank">
+<img src=https://img.shields.io/badge/Genesis_HiTech_GitHub-000000?style=for-the-badge&logo=github&logoColor=white />
+</a> <br />
+<a href="https://www.linkedin.com/in/lucasgalindoiot/" target="_blank">
+<img src=https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white />
+</a>
+<a href="https://instagram.com/lucras_galindo" target="_blank">
+<img src=https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white />
+</a>  
+<a href="mailto:devlucasgalindo@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white />
+</a>
 </div>
 
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<div align="center">
+  <p><b>Activity Graph</b></p>
+  <img src="https://ssr-contributions-svg.vercel.app/_/Lucras22?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&theme=dracula" width="100%" />
+  <br>
+  <p><b>Visitors</b></p>
+  <img src="https://profile-counter.glitch.me/{Lucras22}/count.svg" />
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer"/>
-
